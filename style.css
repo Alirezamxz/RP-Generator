@@ -1,0 +1,42 @@
+*{
+    margin: auto
+}
+
+.Nav{
+background-color: #333333;
+padding: 25px;
+
+}
+
+.brand{
+    text-decoration: none;
+    color: white;
+    font-size: 25px
+}
+
+.content{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: lightgray;
+    padding: 25px;
+    width: 50%
+}
+
+#display{
+    width: 100%
+}
+
+#slider{
+    width: 100%
+}
+
+#length{
+    display: inline-block;
+    width: 100px;
+}
+
+.previuos_passwords{
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
